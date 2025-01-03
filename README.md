@@ -6,7 +6,10 @@ An online retail business is experiencing a decline in customer engagement and c
 
 - [About the Project](#abouttheproject) 
 - [Tools and Technologies 🛠](#ToolsandTechnologies🛠)
-- [Results and Insights 🔦](#ResultsandInsights🔦)
+- [Results and Insights 💡](#ResultsandInsights💡)
+  - [Power BI: Dashboard📈](#PowerBI:Dashboard📈)
+  - [Micosoft Power Point 💻](#MicosoftPowerPoint💻)
+  - [Github Repository 📁](#GithubRepository📁)
 - [Let's Connect! 🌐](#Let'sConnect!🌐)
 
 ## About the Project
@@ -33,4 +36,17 @@ This project focuses on analyzing marketing data to address challenges faced by 
 
 ## Results and Insights 🔦
 
-### 
+### Power BI: Dashboard📈
+
+File Name: 
+
+### Micosoft Power Point 💻
+
+File Name: 
+
+### Github Repository 📁
+
+Link: 
+
+
+## Let's Connect! 🌐
