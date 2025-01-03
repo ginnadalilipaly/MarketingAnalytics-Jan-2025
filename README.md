@@ -46,7 +46,7 @@ File Name: [Marketing Analytics.pptx](https://github.com/ginnadalilipaly/Marketi
 
 ### Github Repository 📁
 
-Link: 
+Link: [MarketingAnalytics-Jan-2025](https://github.com/ginnadalilipaly/MarketingAnalytics-Jan-2025 )
 
 
 ## Let's Connect! 🌐
