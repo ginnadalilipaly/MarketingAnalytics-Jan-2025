@@ -42,7 +42,7 @@ File Name: [Marketing Analytics.pbix](https://github.com/ginnadalilipaly/Marketi
 
 ### Micosoft Power Point 💻
 
-File Name: [[Marketing Analytics.pptx](
+File Name: [Marketing Analytics.pptx](https://github.com/ginnadalilipaly/MarketingAnalytics-Jan-2025/blob/f774128a52315ba8b7a517a8f0933acd1b5cdff6/Marketing%20Analytics.pptx)
 
 ### Github Repository 📁
 
