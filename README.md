@@ -38,11 +38,11 @@ This project focuses on analyzing marketing data to address challenges faced by 
 
 ### Power BI: Dashboard📈
 
-File Name: 
+File Name: [Marketing Analytics.pbix](https://github.com/ginnadalilipaly/MarketingAnalytics-Jan-2025/blob/7616bf1c7165e82489aa85e6849ee0c3792ccfdb/Marketing%20Analytics.pbix)
 
 ### Micosoft Power Point 💻
 
-File Name: 
+File Name: [Marketing Analytics.pptx](https://github.com/ginnadalilipaly/MarketingAnalytics-Jan-2025/blob/7616bf1c7165e82489aa85e6849ee0c3792ccfdb/Marketing%20Analytics.pptx)
 
 ### Github Repository 📁
 
@@ -50,3 +50,5 @@ Link:
 
 
 ## Let's Connect! 🌐
+
+[LinkedIn](https://www.linkedin.com/in/ginanada-khalda-lilipaly-335a40247/)
