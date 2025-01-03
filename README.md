@@ -4,10 +4,10 @@ An online retail business is experiencing a decline in customer engagement and c
 
 ## Table of Contents
 
-- [About the Project](#about the project)
-- [Tools and Technologies 🛠](#Tools and Technologies 🛠)
-- [Results and Insights 🔦](#Results and Insights 🔦)
-- [Let's Connect! 🌐](#Let's Connect! 🌐)
+- [About the Project](#abouttheproject) 
+- [Tools and Technologies 🛠](#ToolsandTechnologies🛠)
+- [Results and Insights 🔦](#ResultsandInsights🔦)
+- [Let's Connect! 🌐](#Let'sConnect!🌐)
 
 ## About the Project
 
