@@ -7,7 +7,7 @@ An online retail business is experiencing a decline in customer engagement and c
 - [About the Project](#abouttheproject) 
 - [Tools and Technologies 🛠](#ToolsandTechnologies🛠)
 - [Results💡](#Results💡)
-  - [Power BI: Dashboard 📈](#PowerBI:Dashboard📈)
+  - [Power BI Dashboard 📈](#PowerBIDashboard📈)
   - [Micosoft Power Point 💻](#MicosoftPowerPoint💻)
   - [Github Repository 📁](#GithubRepository📁)
 - [Let's Connect! 🌐](#Let'sConnect!🌐)
@@ -36,7 +36,7 @@ This project focuses on analyzing marketing data to address challenges faced by 
 
 ## Results 🔦
 
-### Power BI: Dashboard📈
+### Power BI Dashboard 📈
 
 File Name: [Marketing Analytics.pbix](https://github.com/ginnadalilipaly/MarketingAnalytics-Jan-2025/blob/7616bf1c7165e82489aa85e6849ee0c3792ccfdb/Marketing%20Analytics.pbix)
 
