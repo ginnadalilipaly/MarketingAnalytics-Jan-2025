@@ -6,8 +6,8 @@ An online retail business is experiencing a decline in customer engagement and c
 
 - [About the Project](#abouttheproject) 
 - [Tools and Technologies 🛠](#ToolsandTechnologies🛠)
-- [Results and Insights 💡](#ResultsandInsights💡)
-  - [Power BI: Dashboard📈](#PowerBI:Dashboard📈)
+- [Results💡](#Results💡)
+  - [Power BI: Dashboard 📈](#PowerBI:Dashboard📈)
   - [Micosoft Power Point 💻](#MicosoftPowerPoint💻)
   - [Github Repository 📁](#GithubRepository📁)
 - [Let's Connect! 🌐](#Let'sConnect!🌐)
@@ -34,7 +34,7 @@ This project focuses on analyzing marketing data to address challenges faced by 
 - Libraries: Pandas, NLTK
 - Tools: Microsoft SQL Server, Visual Studio Code, Power BI
 
-## Results and Insights 🔦
+## Results 🔦
 
 ### Power BI: Dashboard📈
 
